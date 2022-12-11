@@ -3,8 +3,8 @@ Air landing page
 <br>
 Technology stack:
 
-HTML
-CSS/SCSS
+HTML<br>
+CSS/SCSS<br>
 JS
 
 Preview link: (https://msa1991.github.io/air-landing/)<br/>
